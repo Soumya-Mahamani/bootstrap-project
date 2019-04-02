@@ -1,0 +1,14 @@
+hr {
+    border: 0;
+    width: 96%;
+    color: #ffffff;
+    height: 1px;
+}
+
+.legend-con {
+    font-family: Roboto;
+    display: bottom;
+}
+.logo-box {
+    font-family: "Times New Roman", Times, serif;
+}
